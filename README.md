@@ -1,2 +1,1 @@
-# crudTeste-CSharp
-Crud feito em CSharp usando ASP.NET
+## CRUD using .NET CORE MVC, EF Core and SQLite
